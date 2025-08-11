@@ -9,9 +9,8 @@ Deliverables include a **Google Colab/Jupyter Notebook** and a **PDF report** co
 ## 📂 Files in Repository
 - `task5_eda.ipynb` – Google Colab/Jupyter Notebook with full EDA steps.
 - `train.csv` – Titanic dataset used for analysis.
-- `report.pdf` – PDF version of the analysis with plots and observations.
 - `README.md` – This file, explaining the project.
-- `requirements.txt` – List of Python libraries used.
+
 
 ---
 
